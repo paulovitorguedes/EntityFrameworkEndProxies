@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\",
+  "WorkspaceRootPath": "C:\\GIT\\EntityFrameworkEndProxies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\studies\\entityframeworkendproxies\\entityframeworkendproxies\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\entityframeworkendproxies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\entityframeworkendproxies.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\data\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\studies\\entityframeworkendproxies\\entityframeworkendproxies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\studies\\entityframeworkendproxies\\entityframeworkendproxies\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\models\\artista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\studies\\entityframeworkendproxies\\entityframeworkendproxies\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\entityframeworkendproxies\\entityframeworkendproxies\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\models\\musica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|c:\\git\\studies\\entityframeworkendproxies\\entityframeworkendproxies\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3ED7D25C-7DB7-4351-9FDF-953022226DDE}|EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj|solutionrelative:entityframeworkendproxies\\data\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
@@ -33,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 191,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -53,23 +57,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Dal.cs",
-              "DocumentMoniker": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Dal.cs",
-              "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Data\\Dal.cs",
-              "ToolTip": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Dal.cs",
-              "RelativeToolTip": "EntityFrameworkEndProxies\\Data\\Dal.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAMAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-17T03:15:43.376Z"
+              "DocumentIndex": 0,
+              "Title": "EntityFrameworkEndProxies",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+              "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+              "RelativeToolTip": "EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-21T23:38:56.561Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
+              "Title": "Dal.cs",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Dal.cs",
+              "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Data\\Dal.cs",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Dal.cs",
+              "RelativeToolTip": "EntityFrameworkEndProxies\\Data\\Dal.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-17T03:15:43.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Context.cs",
-              "DocumentMoniker": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Context.cs",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Context.cs",
               "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Data\\Context.cs",
-              "ToolTip": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Context.cs",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Data\\Context.cs",
               "RelativeToolTip": "EntityFrameworkEndProxies\\Data\\Context.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -78,22 +96,22 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "gizfjvqp..sql",
               "DocumentMoniker": "C:\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
+              "RelativeDocumentMoniker": "..\\..\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
               "ToolTip": "C:\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
-              "RelativeToolTip": "..\\..\\..\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
+              "RelativeToolTip": "..\\..\\Users\\vitor\\AppData\\Local\\Temp\\gizfjvqp..sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
               "WhenOpened": "2024-11-17T02:47:23.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Musica.cs",
-              "DocumentMoniker": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Musica.cs",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Musica.cs",
               "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Models\\Musica.cs",
-              "ToolTip": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Musica.cs",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Musica.cs",
               "RelativeToolTip": "EntityFrameworkEndProxies\\Models\\Musica.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,11 +119,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Artista.cs",
-              "DocumentMoniker": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Artista.cs",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Artista.cs",
               "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Models\\Artista.cs",
-              "ToolTip": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Artista.cs",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Models\\Artista.cs",
               "RelativeToolTip": "EntityFrameworkEndProxies\\Models\\Artista.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAgwAQAAABSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -113,11 +131,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Program.cs",
+              "DocumentMoniker": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Program.cs",
               "RelativeDocumentMoniker": "EntityFrameworkEndProxies\\Program.cs",
-              "ToolTip": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Program.cs",
+              "ToolTip": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\Program.cs",
               "RelativeToolTip": "EntityFrameworkEndProxies\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

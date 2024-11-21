@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EntityFrameworkEndProxies")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e53ffcd598e27772c4ba9a78a648eb71ecd45943")]
 [assembly: System.Reflection.AssemblyProductAttribute("EntityFrameworkEndProxies")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EntityFrameworkEndProxies")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

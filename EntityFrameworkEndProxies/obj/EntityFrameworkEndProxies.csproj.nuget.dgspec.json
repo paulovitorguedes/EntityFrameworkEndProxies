@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj": {}
+    "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj": {}
   },
   "projects": {
-    "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj": {
+    "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+        "projectUniqueName": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
         "projectName": "EntityFrameworkEndProxies",
-        "projectPath": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
+        "projectPath": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies.csproj",
         "packagesPath": "C:\\Users\\vitor\\.nuget\\packages\\",
-        "outputPath": "C:\\GIT\\Studies\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\obj\\",
+        "outputPath": "C:\\GIT\\EntityFrameworkEndProxies\\EntityFrameworkEndProxies\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
